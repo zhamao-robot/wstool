@@ -4,4 +4,4 @@
 
 ## 如何使用
 
-下载后打开 wstool.html 即可使用
+下载后打开 index.html 即可使用
